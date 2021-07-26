@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main {
+public class map_loop {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         List<Integer> nums = new ArrayList<>();
